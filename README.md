@@ -8,7 +8,7 @@ This project is made with **HTML, CSS, and JavaScript** and includes animations,
 ---
 
 ## 🚀 Live Demo  
-👉 [Click here to view the site](https://nikitayadav19.github.io/HappyBirthdayGF)  
+👉 [Click here to view the site](https://github.com/anandnsdc0605/HAPPY-BIRTHDAY-SWATI)  
 
 ---
 
@@ -30,4 +30,4 @@ This project is made with **HTML, CSS, and JavaScript** and includes animations,
 ## 🎉 How to Use  
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/nikitayadav19/HappyBirthdayGF.git
+   git clone https://github.com/anandnsdc0605/HAPPY-BIRTHDAY-SWATI
